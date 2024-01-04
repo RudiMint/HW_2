@@ -20,4 +20,4 @@ COPY . .
 
 
 # Команда для запуску додатку
-    CMD ["python", "console_helper"]
+    CMD ["python", "console_helper/CLI.py"]
